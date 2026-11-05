@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Streamlit config / cache
+.streamlit/
+
+# Hugging Face cache
+.cache/
+hf_cache/
+
+# OS artifacts
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
